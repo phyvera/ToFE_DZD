@@ -23,5 +23,7 @@ Assesses the Time of First Emergence (ToFE) of DZD events across space and ensem
 7_Duration_WaitingTime_DZD.R : 
 Evaluates the duration of DZD events and the waiting time between two consecutive DZD occurrences.
 
+8_Plot_ToFE_map.py : used to generate the Time of First Emergence (ToFE) spatial maps presented in the manuscript. All other spatial maps shown in the study are based on the same plotting modules and structure used in this script. It serves as a representative example of the visualization approach applied throughout the analysis.
+
 Note: 
 For any questions and support if needed, the user is invited to contct christian.franzke@pusan.ac.kr or rphynodocilevecchia@pusan.ac.kr.
